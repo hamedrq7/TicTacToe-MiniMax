@@ -1,1 +1,2 @@
-run in ticTacToe.java
+run in ticTacToe.java in src folder
+
